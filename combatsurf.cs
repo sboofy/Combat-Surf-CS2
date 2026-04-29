@@ -21,7 +21,7 @@ public partial class CombatSurf : BasePlugin, IPluginConfig<PluginConfig>
 {
 	public override string ModuleName => "combatsurf";
     public override string ModuleVersion => "1.0.1";
-	public override string ModuleAuthor => "Crizer";
+	public override string ModuleAuthor => "Crizer + spooky";
 
 	private bool _roundGodmodeActive = false;
 	private SqlDataManager _dataManager = null!;
