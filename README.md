@@ -20,7 +20,7 @@ Copy `bin\Release\net8.0\combatsurf.dll` to:
 ```
 
 ### 3. Start the Server
-The plugin will:
+The plugin should:
 - ✅ **Auto-create** the config file (`combatsurf.json`) with defaults
 - ✅ **Auto-create** the SQLite database (`combatsurf.db`)
 - ✅ **Auto-create** all necessary database tables
