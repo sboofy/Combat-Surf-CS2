@@ -1,0 +1,18 @@
+{
+  "DatabaseType": "sqlite",
+  "DatabaseConnectionString": "Data Source=combatsurf.db",
+  "GodmodeTime": 9.0,
+  "EnableGodmode": true,
+  "ShowGodmodeMessages": true,
+  "DatabaseTablePrefix": "cs_",
+  "SpeedBonusThreshold": 250.0,
+  "SpeedMultiplierScale": 1000.0,
+  "DisplayChatTags": true,
+  "DisplayScoreboardTags": true,
+  "BlockChat": false,
+  "AllowAdminChat": true,
+  "SpawnUnits": 16000,
+  "ConstantRespawn": false,
+  "ExtendedRoundTime": false,
+  "ConfigVersion": 2
+}
